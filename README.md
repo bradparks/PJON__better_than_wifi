@@ -1,3 +1,5 @@
+discussed on hacker news here:https://news.ycombinator.com/item?id=23591147
+
 
 ![PJON](http://www.gioblu.com/PJON/PJON-github-header-tiny.png)
 ## PJON 12.1
